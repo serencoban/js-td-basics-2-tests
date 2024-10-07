@@ -57,7 +57,7 @@ switch (job){
 const ageee = 7;
 switch (ageee){
     case ageee < 13:
-        console.log("John est un garçon");
+        console.log("John est un garçon !");
         break;
     case ageee >= 13 && ageee <= 20:
         console.log("John est un adolescent");
